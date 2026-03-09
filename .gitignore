@@ -1,3 +1,2 @@
 .env
-langchain.ipynb
-lc_env/
+venv/
