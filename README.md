@@ -31,6 +31,7 @@ Building systems that can interact with external tools such as search APIs and v
 ## 📂 Project Structure
 
 ```text
+
 llm-apps-with-langchain/
 ├── fundamentals/
 │   ├── llm_basics.ipynb
@@ -44,10 +45,11 @@ llm-apps-with-langchain/
 ├── .env.example
 ├── .gitignore
 ├── README.md
-└── requirements.txt 
+└── requirements.txt  
 
+```
 ---
-
+ 
 ## ⚙️ Installation
 
 git clone https://github.com/yourusername/llm-apps-with-langchain.git
@@ -73,6 +75,7 @@ TAVILY_API_KEY=your_api_key_here
 - Integrate LLMs with external tools
 
 ---
+
 
 ## 🛠️ Technologies Used
 
