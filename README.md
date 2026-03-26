@@ -52,8 +52,8 @@ llm-apps-with-langchain/
  
 ## ⚙️ Installation
 
-git clone https://github.com/yourusername/llm-apps-with-langchain.git
-cd llm-apps-with-langchain
+git clone https://github.com/yourusername/llm-apps-with-langchain.git  
+cd llm-apps-with-langchain  
 pip install -r requirements.txt
 
 ---
@@ -62,7 +62,7 @@ pip install -r requirements.txt
 
 Create a .env file in the root directory:
 
-OPENAI_API_KEY=your_api_key_here
+OPENAI_API_KEY=your_api_key_here  
 TAVILY_API_KEY=your_api_key_here 
 
 ---
