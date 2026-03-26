@@ -33,15 +33,19 @@ Building systems that can interact with external tools such as search APIs and v
 ```text
 
 llm-apps-with-langchain/
+│ 
 ├── fundamentals/
 │   ├── llm_basics.ipynb
 │   ├── prompt_engineering_basics.ipynb
 │   └── chains.ipynb
+│ 
 ├── rag/
 │   ├── retrieval_augmented_generation.ipynb
 │   └── rag_chat_with_website.ipynb
+│ 
 ├── tools/
 │   └── rag_with_tools.ipynb
+│ 
 ├── .env.example
 ├── .gitignore
 ├── README.md
